@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+#about{
+    color: rgba(255,147,173,255);
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.titulo{
+    color: rgba(255,147,173,255);
+    font-family: 'PT Sans Narrow', sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 7vw;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.habilidades{
+    padding: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+img{
+    width: 20%;
+}

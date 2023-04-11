@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+
+.home{
+    text-align: center;
+}
+.hello{
+    font-size: 35vw;
+    color: rgba(254,253,251,255);
+    font-family: 'Anton', sans-serif;
+
+}
+
+#light .hello{
+    color: #1f1f1f;
+}
+
+.nombre{
+    font-size: 2vw;
+    margin: auto;
+    width: 18%;
+    background-color: white;
+    position: relative;
+    bottom: 29vw;
+    margin-bottom: 0.5vw;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+#light .nombre{
+    color: white;
+    background-color: #1f1f1f;
+}
+
+.dev{
+    font-size: 2vw;
+    margin: auto;
+    width: 18%;
+    background-color: white;
+    position: relative;
+    bottom: 29vw;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#light .dev{
+    color: white;
+    background-color: #1f1f1f;
+}
